@@ -1,2 +1,4 @@
 # geojson-adm1-all-countries
-Geojson files for all countris at administrative level 1 ( state )
+
+## Version 1.0.0
+- Geojson files for all countries at administrative level 1 ( state )
